@@ -4,10 +4,12 @@ cover: >-
 coverY: 0
 ---
 
-# Resources
+# 📚 Resources
 
 
 
-Hugging Face documentation (Transformer manual)
+[Hugging Face documentation](https://huggingface.co/docs)&#x20;
+
+Transformer manual
 
 {% file src=".gitbook/assets/manual_short.pdf" %}
