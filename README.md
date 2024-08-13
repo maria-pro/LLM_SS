@@ -20,7 +20,7 @@ layout:
 
 # Outline of the course
 
-#### Working with language and text can be challenging, but now we have a new tool, Large Language Models (LLMs), that offers a new way to not only analyse but also interact with text at an unprecedented scale. This masterclass is an introduction to LLMs in social sciences. You will learn about the basics of Natural Language Processing (NLP)  and their applications, including text preprocessing, sentiment analysis, topic modeling, and text generation.
+Working with language and text can be challenging, but now we have a new tool, Large Language Models (LLMs), that offers a new way to not only analyse but also interact with text at an unprecedented scale. This masterclass is an introduction to LLMs in social sciences. You will learn about the basics of Natural Language Processing (NLP)  and their applications, including text preprocessing, sentiment analysis, topic modeling, and text generation.
 
 ***
 
