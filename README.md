@@ -20,13 +20,11 @@ layout:
 
 # Outline of the course
 
-### <mark style="color:purple;">Course outline:</mark>
-
-{% file src=".gitbook/assets/Introduction to Large Language Models.pdf" %}
+#### Working with language and text can be challenging, but now we have a new tool, Large Language Models (LLMs), that offers a new way to not only analyse but also interact with text at an unprecedented scale. This masterclass is an introduction to LLMs in social sciences. You will learn about the basics of Natural Language Processing (NLP)  and their applications, including text preprocessing, sentiment analysis, topic modeling, and text generation.
 
 ***
 
-### <mark style="color:purple;">Day 1: Foundations of Python and Introduction to LLMs</mark>
+#### <mark style="color:purple;">Day 1: Foundations of Python and Introduction to LLMs</mark>
 
 Session 1
 
@@ -46,7 +44,7 @@ Activity 3: <mark style="color:red;">Run in colab</mark>
 
 ***
 
-### <mark style="color:purple;">Day 2: Hands-On with LLMs in Social Science Research</mark>
+#### <mark style="color:purple;">Day 2: Hands-On with LLMs in Social Science Research</mark>
 
 Session 1
 
@@ -64,7 +62,7 @@ Session 3
 
 Activity 3: <mark style="color:red;">Run in colab</mark>
 
-### <mark style="color:purple;">Day 3: Going deeper with LLMs in Social Sciences</mark>
+#### <mark style="color:purple;">Day 3: Going deeper with LLMs in Social Sciences</mark>
 
 Session 1
 
@@ -82,7 +80,7 @@ Session 3
 
 Activity 3: <mark style="color:red;">Run in colab</mark>
 
-### <mark style="color:purple;">Resources:</mark>
+#### <mark style="color:purple;">Resources:</mark>
 
 {% hint style="info" %}
 <mark style="color:purple;">First point of reference:</mark>
@@ -92,13 +90,13 @@ GoogleColab
 Hugging Face website
 {% endhint %}
 
+#### <mark style="color:purple;">Course outline:</mark>
+
+{% file src=".gitbook/assets/Introduction to Large Language Models.pdf" %}
 
 
 
 
-Hugging Face documentation (Transformer manual)
-
-{% file src=".gitbook/assets/manual_short.pdf" %}
 
 
 
