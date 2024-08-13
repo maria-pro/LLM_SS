@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Outline](README.md)
+* [Outline of the course](README.md)
 
 ## Day 1
 
@@ -11,4 +11,14 @@
 
 ## Day 2
 
-* [Page 2](day-2/page-2.md)
+* [Morning](day-2/morning.md)
+* [Afternoon](day-2/afternoon.md)
+* [Evening](day-2/evening.md)
+
+***
+
+* [DAY3](day3/README.md)
+  * [Morning](day3/morning.md)
+  * [Afternoon](day3/afternoon.md)
+  * [Evening](day3/evening.md)
+* [Resources](resources.md)

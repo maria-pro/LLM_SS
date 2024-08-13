@@ -1,12 +1,11 @@
 ---
 description: Break down of the 3 day masterclass
-cover: >-
-  https://images.unsplash.com/photo-1517639493569-5666a7b2f494?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxza3l8ZW58MHx8fHwxNzIzNTIxOTc2fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
+cover: .gitbook/assets/AdobeStock_772886422.png
+coverY: -143.9034205231388
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -19,10 +18,87 @@ layout:
     visible: true
 ---
 
-# Outline
+# Outline of the course
 
-Day 1:
+### <mark style="color:purple;">Course outline:</mark>
 
+{% file src=".gitbook/assets/Introduction to Large Language Models.pdf" %}
 
+***
+
+### <mark style="color:purple;">Day 1: Foundations of Python and Introduction to LLMs</mark>
+
+Session 1
 
 Activity 1: <mark style="color:red;">Run in colab</mark>
+
+***
+
+Session 2
+
+Activity 2: <mark style="color:red;">Run in colab</mark>
+
+***
+
+Session 3
+
+Activity 3: <mark style="color:red;">Run in colab</mark>
+
+***
+
+### <mark style="color:purple;">Day 2: Hands-On with LLMs in Social Science Research</mark>
+
+Session 1
+
+Activity 1: <mark style="color:red;">Run in colab</mark>
+
+***
+
+Session 2
+
+Activity 2: <mark style="color:red;">Run in colab</mark>
+
+***
+
+Session 3
+
+Activity 3: <mark style="color:red;">Run in colab</mark>
+
+### <mark style="color:purple;">Day 3: Going deeper with LLMs in Social Sciences</mark>
+
+Session 1
+
+Activity 1: <mark style="color:red;">Run in colab</mark>
+
+***
+
+Session 2
+
+Activity 2: <mark style="color:red;">Run in colab</mark>
+
+***
+
+Session 3
+
+Activity 3: <mark style="color:red;">Run in colab</mark>
+
+### <mark style="color:purple;">Resources:</mark>
+
+{% hint style="info" %}
+<mark style="color:purple;">First point of reference:</mark>
+
+GoogleColab
+
+Hugging Face website
+{% endhint %}
+
+
+
+
+
+Hugging Face documentation (Transformer manual)
+
+{% file src=".gitbook/assets/manual_short.pdf" %}
+
+
+
