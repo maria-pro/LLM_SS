@@ -15,10 +15,9 @@
 * [⚙️ Afternoon](day-2/afternoon.md)
 * [⚙️ Evening](day-2/evening.md)
 
-***
+## DAY 3
 
-* [DAY3](day3/README.md)
-  * [🦙 Morning](day3/morning.md)
-  * [🦙 Afternoon](day3/afternoon.md)
-  * [🦙 Evening](day3/evening.md)
-* [📚 Resources](resources.md)
+* [🦙 Morning](day-3/morning.md)
+* [🦙 Afternoon](day-3/afternoon.md)
+* [🦙 Evening](day-3/evening.md)
+* [📚 Resources](day-3/resources.md)

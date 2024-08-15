@@ -12,4 +12,8 @@ coverY: 0
 
 Transformer manual
 
-{% file src=".gitbook/assets/manual_short.pdf" %}
+{% file src="../.gitbook/assets/manual_short.pdf" %}
+Transformers documentation
+{% endfile %}
+
+[Ownership rights and licensing](https://huggingface.co/docs/hub/en/repositories-licenses)
