@@ -90,9 +90,7 @@ Markdown basics
 
 
 
-
-
-{% embed url="https://colab.research.google.com/github/maria-pro/hf/blob/main/activities/Activity%201.%20Google%20Colab%20and%20Python%20basics.ipynb#scrollTo=BRoN8RvJqJwN" %}
+{% embed url="https://colab.research.google.com/github/maria-pro/hf/blob/main/activities/Activity%201.%20Google%20Colab%20and%20Python%20basics.ipynb#scrollTo=cEGIIt7mJE6Y" %}
 
 #### **1. Getting Started**&#x20;
 
