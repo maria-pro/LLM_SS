@@ -74,19 +74,19 @@ Session 3/Activity 6. Demonstration: NLP tasks - real cases
 
 #### <mark style="color:purple;">Day 3: Going deeper with LLMs in Social Sciences</mark>
 
-Session 1
+Session 1. Fine-Tuning LLMs for Custom Use-Cases
 
-Activity 1: <mark style="color:red;">Run in colab</mark>
+Activity 6: <mark style="color:red;">Run in colab</mark>
 
 ***
 
-Session 2
+Session 2. Retrieval-augmented generation
 
 Activity 2: <mark style="color:red;">Run in colab</mark>
 
 ***
 
-Session 3
+Session 3. Project Development and Ethical Implications
 
 Activity 3: <mark style="color:red;">Run in colab</mark>
 

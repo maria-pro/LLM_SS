@@ -16,7 +16,7 @@
 
 * [⚙️ Morning](day-2/morning.md)
 * [⚙️ Afternoon](day-2/afternoon.md)
-* [⚙️ Evening](day-2/evening/README.md)
+* [⚙️ Evening](day-2/evening.md)
   * [Google Colab](https://colab.research.google.com/)
 * [🤔 Code snippets to get you started](day-2/code-snippets-to-get-you-started.md)
 * [Google Colab](https://colab.research.google.com/)
