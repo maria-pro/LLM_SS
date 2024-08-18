@@ -1,19 +1,25 @@
 # Table of contents
 
 * [Outline of the course](README.md)
+* [Pre-course survey](pre-course-survey.md)
 
 ## Day 1
 
 * [🤗 Morning](day-1/morning/README.md)
-  * [Activity 1](https://githubtocolab.com/maria-pro/hf/blob/main/activities/Activity%201.%20Google%20Colab%20and%20Python%20basics.ipynb)
+  * [Google Colab basics](day-1/morning/google-colab-basics.md)
+  * [Markdown editing basics](https://colab.research.google.com/notebooks/markdown\_guide.ipynb)
 * [🤗 Afternoon](day-1/afternoon.md)
 * [🤗 Evening](day-1/evening.md)
+* [Google Colab](https://colab.research.google.com/)
 
 ## Day 2
 
 * [⚙️ Morning](day-2/morning.md)
 * [⚙️ Afternoon](day-2/afternoon.md)
-* [⚙️ Evening](day-2/evening.md)
+* [⚙️ Evening](day-2/evening/README.md)
+  * [Google Colab](https://colab.research.google.com/)
+* [🤔 Code snippets to get you started](day-2/code-snippets-to-get-you-started.md)
+* [Google Colab](https://colab.research.google.com/)
 
 ## DAY 3
 
@@ -21,3 +27,4 @@
 * [🦙 Afternoon](day-3/afternoon.md)
 * [🦙 Evening](day-3/evening.md)
 * [📚 Resources](day-3/resources.md)
+* [Google Colab](https://colab.research.google.com/)

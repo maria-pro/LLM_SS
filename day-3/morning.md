@@ -1,7 +1,8 @@
 ---
-description: Going deeper with LLMs in Social Sciences
+description: Fine-Tuning LLMs for Custom Use-Cases
 ---
 
 # 🦙 Morning
 
-n
+#### <mark style="color:purple;">Slides</mark>
+

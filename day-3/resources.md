@@ -8,6 +8,8 @@ coverY: 0
 
 
 
+#### Documentation
+
 [Hugging Face documentation](https://huggingface.co/docs)&#x20;
 
 Transformer manual
@@ -16,4 +18,14 @@ Transformer manual
 Transformers documentation
 {% endfile %}
 
+#### Research
+
+[Papers with code](https://paperswithcode.com/)
+
+
+
+#### Ethics and responsible AI
+
 [Ownership rights and licensing](https://huggingface.co/docs/hub/en/repositories-licenses)
+
+[Responsible AI toolkit for LLM](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/) (Google)
