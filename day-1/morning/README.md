@@ -15,7 +15,9 @@ description: Foundations of Python and Introduction to LLMs
 * Google Colab
 * Python basics
 
+## Music & Mental Health Survey
 
+{% file src="../../.gitbook/assets/mxmh_survey_results.csv" %}
 
 * Basic data manipulation in Python (Pandas and Numpy)
 
