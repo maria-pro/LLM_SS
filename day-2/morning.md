@@ -8,6 +8,12 @@ description: Hands-On with LLMs in Social Science Research
 
 
 
+Embeddings
+
+
+
+{% embed url="https://githubtocolab.com/maria-pro/hf/blob/main/Word_embeddings.ipynb" %}
+
 {% file src="../.gitbook/assets/2_1 Transformers.pptx" %}
 
 ***
@@ -26,6 +32,6 @@ Question Answering
 
 {% embed url="https://githubtocolab.com/maria-pro/hf/blob/main/activities/07_question-answering.ipynb" %}
 
-Text generaion
+Text generation
 
 {% embed url="https://githubtocolab.com/maria-pro/hf/blob/main/activities/05_text-generation.ipynb" %}
