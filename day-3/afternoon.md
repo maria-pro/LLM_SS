@@ -25,3 +25,5 @@ description: Retrieval-augmented generation with Ollama and transformers
 Download Ollama and install it locally
 
 {% embed url="https://ollama.com/download" %}
+
+{% embed url="https://colab.research.google.com/drive/1y3D1JFjfGzEupiA1f3GG6PJImMGjiC6V#scrollTo=fe52598cff073d44" %}
