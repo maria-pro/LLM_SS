@@ -11,6 +11,9 @@
 * [🤗 Afternoon](day-1/afternoon.md)
 * [🤗 Evening](day-1/evening.md)
 * [Google Colab](https://colab.research.google.com/)
+* [Resources](day-1/resources/README.md)
+  * [Foundational LLM and text generation (white paper)](day-1/resources/foundational-llm-and-text-generation-white-paper.md)
+  * [Prompt engineering (white paper)](day-1/resources/prompt-engineering-white-paper.md)
 
 ## Day 2
 
